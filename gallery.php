@@ -1,8 +1,9 @@
 <?php include './Components/header.php';?>
 <body>
+  <link rel="stylesheet" href="gallery.css">
 <?php include './Components/navbar.php';?>
     <main>
-        <section class="hero is-medium is-info">
+        <section class="hero is-large is-info">
             <div class="hero-body">
                 <p class="title">
                 Gallery

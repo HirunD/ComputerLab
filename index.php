@@ -4,6 +4,8 @@
 
 <?php include './Components/navbar.php';?>
 
+<link rel="stylesheet" href="index.css">
+
 <section class="hero is-large is-info">
   <div class="hero-body">
     <p class="title">

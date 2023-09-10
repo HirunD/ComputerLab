@@ -2,6 +2,9 @@
 <body>
 <?php include './Components/navbar.php';?>
 
+<link rel="stylesheet" href="about.css">
+
+
 <section class="hero is-large is-success">
   <div class="hero-body">
     <div class="container">
@@ -21,19 +24,19 @@
     <div class="card">
       <div class="card-image">
         <figure class="image is-4by3">
-          <img src="http://bulma.io/images/placeholders/1280x960.png" alt="Image">
+          <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
         </figure>
       </div>
       <div class="card-content">
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-              <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+              <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">John Smith</p>
-            <p class="subtitle is-6">@johnsmith</p>
+            <p class="title is-4">Avatar Name</p>
+            <p class="subtitle is-6">@jamescameron</p>
           </div>
         </div>
     
@@ -51,19 +54,19 @@
   <div class="card">
       <div class="card-image">
         <figure class="image is-4by3">
-          <img src="http://bulma.io/images/placeholders/1280x960.png" alt="Image">
+          <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
         </figure>
       </div>
       <div class="card-content">
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-              <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+              <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">John Smith</p>
-            <p class="subtitle is-6">@johnsmith</p>
+            <p class="title is-4">Avatar Name</p>
+            <p class="subtitle is-6">@jamescameron</p>
           </div>
         </div>
     
@@ -81,19 +84,19 @@
   <div class="card">
       <div class="card-image">
         <figure class="image is-4by3">
-          <img src="http://bulma.io/images/placeholders/1280x960.png" alt="Image">
+          <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
         </figure>
       </div>
       <div class="card-content">
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-              <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+              <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">John Smith</p>
-            <p class="subtitle is-6">@johnsmith</p>
+            <p class="title is-4">Avatar Name</p>
+            <p class="subtitle is-6">@jamescameron</p>
           </div>
         </div>
     
@@ -111,19 +114,19 @@
   <div class="card">
       <div class="card-image">
         <figure class="image is-4by3">
-          <img src="http://bulma.io/images/placeholders/1280x960.png" alt="Image">
+          <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
         </figure>
       </div>
       <div class="card-content">
         <div class="media">
           <div class="media-left">
             <figure class="image is-48x48">
-              <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+              <img src="https://variety.com/wp-content/uploads/2021/04/Avatar.jpg" alt="Image">
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">John Smith</p>
-            <p class="subtitle is-6">@johnsmith</p>
+            <p class="title is-4">Avatar Name</p>
+            <p class="subtitle is-6">@jamescameron</p>
           </div>
         </div>
     
